@@ -12,6 +12,8 @@
 4. Hashtags,
 5. Bookmarks Everything setup Complete 
 
+# Bookmark button clicked and it shows another place
+
 
 
 # React + Vite
