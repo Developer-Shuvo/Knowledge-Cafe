@@ -8,9 +8,11 @@
 
 1.Cover image,
 2. Author information, 
-3.  Reading Time,
+3. Reading Time,
+4. Hashtags,
+5. Bookmarks Everything setup Complete 
 
-Hashtags, Bookmarks Everything setup
+
 
 # React + Vite
 
