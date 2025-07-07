@@ -13,6 +13,7 @@
 5. Bookmarks Everything setup Complete 
 
 # Bookmark button clicked and it shows another place
+# Mark as read added
 
 
 
