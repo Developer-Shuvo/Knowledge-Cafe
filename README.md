@@ -1,6 +1,8 @@
 # Step By Step My work
 
-1. At first Every File/Folder, Fonts, Tailwind Css added 
+1. At first Every File/Folder, Fonts, Tailwind Css added
+2. Fake Data Create For Testing/Learnig
+3. 
 
 
 # React + Vite
