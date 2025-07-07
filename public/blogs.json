@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.postimg.cc/9MRmb32n/programming-background-concept-1.jpg",
+    "title": "Deep Dive into React Hooks",
+    "author": "Sam Roberts",
+    "author_img": "https://randomuser.me/api/portraits/men/10.jpg",
+    "posted_date": "2025-07-05",
+    "reading_time": 6,
+    "hashtags": ["#React", "#Frontend", "#Hooks"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.postimg.cc/sgNbcM23/female-hacker-with-her-team-cyber-terrorists-making-dangerous-virus-attack-government.jpg",
+    "title": "Building RESTful APIs with Node.js",
+    "author": "Nina Patel",
+    "author_img": "https://randomuser.me/api/portraits/women/22.jpg",
+    "posted_date": "2025-07-02",
+    "reading_time": 8,
+    "hashtags": ["#NodeJS", "#APIs", "#Backend"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.postimg.cc/QxXLxLPZ/programming-background-collage.jpg",
+    "title": "CSS Grid vs Flexbox: When to Use Which",
+    "author": "Leo Martinez",
+    "author_img": "https://randomuser.me/api/portraits/men/34.jpg",
+    "posted_date": "2025-07-07",
+    "reading_time": 5,
+    "hashtags": ["#CSS", "#Design", "#WebDev"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.postimg.cc/d3YbygVd/programming-background-concept.jpg",
+    "title": "10 VSCode Extensions You Can't Miss",
+    "author": "Aisha Khan",
+    "author_img": "https://randomuser.me/api/portraits/women/56.jpg",
+    "posted_date": "2025-07-03",
+    "reading_time": 7,
+    "hashtags": ["#VSCode", "#DeveloperTools", "#Productivity"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.postimg.cc/gjHfq4x7/programming-background-with-person-working-with-codes-computer.jpg",
+    "title": "Optimizing JavaScript Performance",
+    "author": "Mark Liu",
+    "author_img": "https://randomuser.me/api/portraits/men/78.jpg",
+    "posted_date": "2025-07-06",
+    "reading_time": 9,
+    "hashtags": ["#JavaScript", "#Performance", "#Web"]
+  }
+]
