@@ -6,11 +6,11 @@ import { useState } from "react";
 
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
-  const handleAddToBookmark = blog => {
-   const newBookmark =[...bookmarks, blog];
-   setBookmarks(newBookmark);
-  }
-  return (    
+  const handleAddToBookmark = (blog) => {
+    const newBookmark = [...bookmarks, blog];
+    setBookmarks(newBookmark);
+  };
+  return (
     <>
       <Header></Header>
 
