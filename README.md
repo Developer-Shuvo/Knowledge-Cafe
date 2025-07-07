@@ -1,3 +1,10 @@
+# Step By Step My work
+
+1. At first Every File/Folder, Fonts, Tailwind Css added
+2. Fake Data Create For Testing/Learnig
+3. Navbar and Primary component Create
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
