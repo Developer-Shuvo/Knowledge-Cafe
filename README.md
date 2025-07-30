@@ -3,7 +3,9 @@
 1. At first Every File/Folder, Fonts, Tailwind Css added
 2. Fake Data Create For Testing/Learnig
 3. Navbar and Primary component Create
-   
+
+
+___
 
 
 1.Cover image,
