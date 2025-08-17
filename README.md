@@ -5,7 +5,7 @@
 3. Navbar and Primary component Create
 
 
-___ ___ ___ ___ ___ ___ ----
+___ ___ ___ ___ ___ ___ ------
 
 1.Cover image,
 2. Author information, 
